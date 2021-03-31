@@ -1,4 +1,4 @@
-# react-ionic-beacon-checker
+# react-tiny-chat-widget
 Simple React chat widget
 
 ## Installation 
